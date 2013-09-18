@@ -5,7 +5,7 @@ int ruchCzl(int suma){
   int czl,i=0;
 
   do{
-    if(i!=0)printf("\n\n Nie rozumiem,\n");
+    if(i!=0)printf("\n\n Nie rozumiem.\n");
 
     printf("\n Podaj liczbe: ");
     scanf("%i",&czl);
